@@ -1,2 +1,3 @@
 # numenta-thing
-# DEVOPS-252
+# DEVOPS
+# 252
