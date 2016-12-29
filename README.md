@@ -1,1 +1,1 @@
-# numenta-thing
+## numenta-thing
